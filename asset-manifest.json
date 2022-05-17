@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TrelloClone/static/js/main.fcae1cfc.js",
+    "index.html": "/TrelloClone/index.html",
+    "main.fcae1cfc.js.map": "/TrelloClone/static/js/main.fcae1cfc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fcae1cfc.js"
+  ]
+}
